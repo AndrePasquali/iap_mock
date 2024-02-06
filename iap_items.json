@@ -1,0 +1,90 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "101_purchaserewards2023allpack",
+        "name": "Purchaser Rewards 2023 All Pack",
+        "description": "Unlock amazing rewards for the year 2023!",
+        "price": 4.99,
+        "currency": "USD"
+      },
+      {
+        "id": "101_purchaserewards2023npupack",
+        "name": "Purchaser Rewards 2023 NPU Pack",
+        "description": "Unlock exclusive rewards with this NPU pack!",
+        "price": 2.99,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferaug2019package1",
+        "name": "Target Offer Aug 2019 Package 1",
+        "description": "Special package for August 2019 - Option 1",
+        "price": 1.49,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferaug2019package2",
+        "name": "Target Offer Aug 2019 Package 2",
+        "description": "Special package for August 2019 - Option 2",
+        "price": 1.99,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferaug2019package3",
+        "name": "Target Offer Aug 2019 Package 3",
+        "description": "Special package for August 2019 - Option 3",
+        "price": 2.49,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferaug2019package4",
+        "name": "Target Offer Aug 2019 Package 4",
+        "description": "Special package for August 2019 - Option 4",
+        "price": 2.99,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferhhjan2020package",
+        "name": "Target Offer HH Jan 2020 Package",
+        "description": "Exclusive package for January 2020",
+        "price": 3.49,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferhhjul2019package",
+        "name": "Target Offer HH Jul 2019 Package",
+        "description": "Special package for July 2019",
+        "price": 1.99,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferhhoct2019package",
+        "name": "Target Offer HH Oct 2019 Package",
+        "description": "Special package for October 2019",
+        "price": 2.99,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetofferhpujan2020package",
+        "name": "Target Offer HPU Jan 2020 Package",
+        "description": "Exclusive package for January 2020 - HPU edition",
+        "price": 3.99,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetoffersfaug2020pack",
+        "name": "Target Offers SF Aug 2020 Pack",
+        "description": "Special pack for August 2020 - SF edition",
+        "price": 4.49,
+        "currency": "USD"
+      },
+      {
+        "id": "101_targetoffersfjun2021package",
+        "name": "Target Offers SF Jun 2021 Package",
+        "description": "Special package for June 2021 - SF edition",
+        "price": 4.99,
+        "currency": "USD"
+      }
+    ]
+  }
+}
